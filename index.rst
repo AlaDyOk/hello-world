@@ -48,6 +48,7 @@ r"""\*escape* \`with` "\\""""
 -------------
 
 In order to write a title, you can either underline it or under and overline it.
+In order to write a title, you can either underline it or under and overline it.
 
 1.4 Internal and External Links
 --------------------------------
